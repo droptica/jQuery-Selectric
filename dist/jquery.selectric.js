@@ -1,3 +1,20 @@
+/*!
+ *         ,/
+ *       ,'/
+ *     ,' /
+ *   ,'  /_____,
+ * .'____    ,'
+ *      /  ,'
+ *     / ,'
+ *    /,'
+ *   /'
+ *
+ * Selectric Ϟ v1.8.7 (2015-01-14) - http://lcdsantos.github.io/jQuery-Selectric/
+ *
+ * Copyright (c) 2015 Leonardo Santos; Dual licensed: MIT/GPL
+ *
+ */
+
 ;(function($) {
   'use strict';
 

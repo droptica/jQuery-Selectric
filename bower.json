@@ -1,7 +1,7 @@
 {
   "name": "jquery-selectric",
   "description": "Fast, simple and light jQuery plugin to customize HTML selects",
-  "version": "1.9.3",
+  "version": "1.8.7",
   "keywords": [
     "select",
     "selectbox",
@@ -18,8 +18,8 @@
     }
   ],
   "main": [
-    "public/jquery.selectric.js",
-    "public/selectric.css"
+    "dist/jquery.selectric.js",
+    "dist/selectric.css"
   ],
   "ignore": [
     "**/.*",
