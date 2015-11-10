@@ -412,7 +412,6 @@
         // Detect is the options box is inside the window
         function _isInViewport() {
           _calculateOptionsDimensions();
-		//small viewport fix
           $outerWrapper.toggleClass(_this.classes.above, $outerWrapper.offset().top + $outerWrapper.outerHeight() + itemsHeight > $win.scrollTop() + $win.height() + 50);
         }
 
