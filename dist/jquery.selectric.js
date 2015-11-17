@@ -412,7 +412,7 @@
         // Detect is the options box is inside the window
         function _isInViewport() {
           _calculateOptionsDimensions();
-          $outerWrapper.toggleClass(_this.classes.above, $outerWrapper.offset().top + $outerWrapper.outerHeight() + itemsHeight > $win.scrollTop() + $win.height());
+          $outerWrapper.toggleClass(_this.classes.above, $outerWrapper.offset().top + $outerWrapper.outerHeight() + itemsHeight > $win.scrollTop() + $win.height() + 50);
         }
 
         // Close the select options box
